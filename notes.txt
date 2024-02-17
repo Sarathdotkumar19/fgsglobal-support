@@ -1,7 +1,11 @@
 GIT TOKEN
-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
+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
 
-git remote set-url origin https://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@github.com/Sarathdotkumar19/fgsglobal-support.git
+git remote set-url origin https://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@github.com/Sarathdotkumar19/fgsglobal-support.git
+
+git config user.email "sarath.kumar19@wipro.com"
+git config user.name "Sarath"
+
 
 Please find the 
 Directory page on staffbase: 
