@@ -1,5 +1,6 @@
 import logo from "./logo.svg";
 import MSWrapper from "./MsWrapper";
+import SelectWithSearch from "./SelectWithSearch";
 import { DD_OPTIONS } from "./constants";
 // import "./App.css";
 
@@ -14,6 +15,24 @@ function App() {
             onSearch={function noRefCheck() {}}
             options={DD_OPTIONS}
             showCheckbox
+          />
+          <br />
+          <br />
+          <br />
+          <SelectWithSearch
+            isObject={false}
+            onKeyPressFn={function noRefCheck() {}}
+            onRemove={function noRefCheck() {}}
+            onSearch={function noRefCheck() {}}
+            onSelect={function noRefCheck() {}}
+            options={[
+              "Sarath Kumar",
+              "Narmadha",
+              "Uthra",
+              "Sathick basha",
+              "Furkan",
+            ]}
+            placeholder="Find a person"
           />
         </div>
       </header>
