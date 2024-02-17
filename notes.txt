@@ -1,3 +1,8 @@
+GIT TOKEN
+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
+
+git remote set-url origin https://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@github.com/Sarathdotkumar19/fgsglobal-support.git
+
 Please find the 
 Directory page on staffbase: 
 https://my.fgsglobal.com/content/page/65ccc99094a9e16a1bbe1146
